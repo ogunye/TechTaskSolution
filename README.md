@@ -17,6 +17,6 @@ The Checkout project is a coding exercise designed to simulate a checkout system
 
 ### Unit Test: xUnit Test (`CheckoutTests`)
 
-#### `ICheckout` Interface
+#### Interface (`ICheckout`)
 
 
