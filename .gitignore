@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/CheckoutTest/CheckoutTest.csproj
+/CheckoutTest/Properties/AssemblyInfo.cs
+/CheckoutTest/packages.config
+/CheckoutTest/UnitTest1.cs
