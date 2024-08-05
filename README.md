@@ -13,7 +13,7 @@ The Checkout project is a coding exercise designed to simulate a checkout system
 
 ## Code Structure
 
-### Main Project (`CheckoutExample`)
+### Console Project (`CheckoutExample`)
 
 ### Unit Test: xUnit Test (`CheckoutTests`)
 
